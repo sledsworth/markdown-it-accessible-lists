@@ -10,6 +10,6 @@ function addRoleToListTokens(state) {
   return true;
 }
 
-export default function (md) {
+module.exports = function (md) {
   md.core.ruler.push("accessible-lists", addRoleToListTokens);
-}
+};

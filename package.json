@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Adds role=\"list\" to `ol` and `ul` elements to insure semantics aren't lost when creating custom styles with `list-style: none;`.",
   "main": "index.js",
-  "scripts": {
-    "build": ""
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sledsworth/markdown-it-accessible-lists.git"
