@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-accessible-lists",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Adds role=\"list\" to `ol` and `ul` elements to insure semantics aren't lost when creating custom styles with `list-style: none;`.",
   "main": "index.js",
   "repository": {
